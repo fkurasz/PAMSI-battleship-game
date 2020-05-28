@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PAMSI3_GAME_BATTLESHIP", "PAMSI3_GAME_BATTLESHIP.vcxproj", "{7BBE4A62-8554-4CF7-9F5E-209362F784C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Debug|x64.ActiveCfg = Debug|x64
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Debug|x64.Build.0 = Debug|x64
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Debug|x86.Build.0 = Debug|Win32
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Release|x64.ActiveCfg = Release|x64
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Release|x64.Build.0 = Release|x64
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Release|x86.ActiveCfg = Release|Win32
+		{7BBE4A62-8554-4CF7-9F5E-209362F784C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C26415D-BE75-4790-A4E2-EE265E1E9A22}
+	EndGlobalSection
+EndGlobal
